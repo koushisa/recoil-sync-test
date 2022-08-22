@@ -1,5 +1,5 @@
 # recoil-sync-test
-Created with CodeSandbox
+Created with CodeSandbox: https://codesandbox.io/s/github/koushisa/recoil-sync-test
 
 [Recoil Sync](https://recoiljs.org/docs/recoil-sync/introduction/) sample implementation.
 
